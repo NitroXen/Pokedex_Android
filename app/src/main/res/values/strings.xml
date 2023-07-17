@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Pokedex</string>
+    <string name="description">Description : </string>
+    <string name="type">Type/s </string>
+    <string name="and"> and </string>
+    <string name="weight">Weight = </string>
+    <string name="height">Height = </string>
+    <string name="back">Return</string>
+    <string name="descriptionVoz">". Type of Pokémon "</string>
+    <string name="conection">Internet Conexion is Required</string>
+
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pokedex</string>
+    <string name="descriptionVoz">". Pokémon Tipo "</string>
+    <string name="description">"Descripcion : "</string>
+    <string name="type">"Tipo/s "</string>
+    <string name="and">" y "</string>
+    <string name="weight">"Peso = "</string>
+    <string name="height">"Altura = "</string>
+    <string name="back">Volver</string>
+    <string name="conection">Necesita Conexion a Internet</string>
+</resources>
